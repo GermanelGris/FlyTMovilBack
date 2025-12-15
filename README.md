@@ -7,7 +7,7 @@ Backend desarrollado en Java con Spring Boot para la aplicación Android “Regi
 Gestiona autenticación mediante JWT, usuarios, vuelos y un panel administrativo con roles (USER, ADMIN).
 Permite además la subida y el servicio de archivos desde la carpeta uploads/.
 
-##Contenido
+## Contenido
 
 Descripción
 
